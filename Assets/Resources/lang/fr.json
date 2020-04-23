@@ -1,0 +1,182 @@
+{
+  "name": "Français",
+  "shortName": "fr",
+  "values": [
+    {
+      "key": "DEV_1",
+      "value": "Dev 1"
+    },
+    {
+      "key": "DEV_2",
+      "value": "Dev 2"
+    },
+    {
+      "key": "HELPER",
+      "value": "Ange guardien"
+    },
+    {
+      "key": "CHARACTER",
+      "value": "Personnage"
+    },
+    {
+      "key": "DOOR",
+      "value": "Porte"
+    },
+    {
+      "key": "IF",
+      "value": "Si"
+    },
+    {
+      "key": "MOVE",
+      "value": "Bouger"
+    },
+    {
+      "key": "PRESS",
+      "value": "Appuyer"
+    },
+    {
+      "key": "VALIDATE",
+      "value": "Valider"
+    },
+    {
+      "key": "EXIT_LINE",
+      "value": "Voulez-vous vraiment quitter ?"
+    },
+    {
+      "key": "FINISH_LINE",
+      "value": "Bravo, tu as fini le prototype !!"
+    },
+    {
+      "key": "EXIT",
+      "value": "Quitter"
+    },
+    {
+      "key": "CANCEL",
+      "value": "Annuler"
+    },
+    {
+      "key": "CONDITION",
+      "value": "Condition"
+    },
+    {
+      "key": "TRUE",
+      "value": "Vrai"
+    },
+    {
+      "key": "FALSE",
+      "value": "Faux"
+    },
+    {
+      "key": "PRESS_E",
+      "value": "APPUYER SUR E"
+    },
+    {
+      "key": "KEY",
+      "value": "Touche"
+    },
+    {
+      "key": "TARGET",
+      "value": "Cible"
+    },
+    {
+      "key": "PRESS_EVENT",
+      "value": "Appuyer"
+    },
+    {
+      "key": "INTRO_1",
+      "value": "Hé c'est quoi tout ça ?"
+    },
+    {
+      "key": "INTRO_2",
+      "value": "..."
+    },
+    {
+      "key": "INTRO_3",
+      "value": "Allez ! Tu me supprimes tout et tu recommences !"
+    },
+    {
+      "key": "INTRO_4",
+      "value": "Ok ok ..."
+    },
+    {
+      "key": "FIRST_DIALOG_1",
+      "value": "Attends une minute ..."
+    },
+    {
+      "key": "FIRST_DIALOG_2",
+      "value": "Mais il y avait encore une IA ici ?"
+    },
+    {
+      "key": "FIRST_DIALOG_3",
+      "value": "Tu m'entends ?"
+    },
+    {
+      "key": "FIRST_DIALOG_4",
+      "value": "C'est moi ton ange guardien !"
+    },
+    {
+      "key": "FIRST_DIALOG_5",
+      "value": "Bon alors le stagiaire, tu me l'apporte ce café ?"
+    },
+    {
+      "key": "FIRST_DIALOG_6",
+      "value": "Oui oui ..."
+    },
+    {
+      "key": "FIRST_DIALOG_7",
+      "value": "Bon mon pauvre ... tout doux ... on va te réparer !"
+    },
+    {
+      "key": "FIRST_DIALOG_8",
+      "value": "Essaies d'appuyer sur 'E' pour ouvrir la fenêtre de script."
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_1",
+      "value": "Tout d'abord, créons une condition SI."
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_2",
+      "value": "Maintenant, créons un événement APPUYER."
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_3",
+      "value": "Maintenant, créons une action BOUGER."
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_4",
+      "value": "Maintenant, assignons 'D' à l'événement APPUYER."
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_5",
+      "value": "Lions la condition SI à l'événement APPUYER."
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_6",
+      "value": "Lions la condition SI à l'action BOUGER."
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_7",
+      "value": "Maintenant, pour bouger vers la droite, il faut assigner la direction (1, 0, 0) à l'action BOUGER."
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_8",
+      "value": "Pour finir, validons le script."
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_9",
+      "value": "Maintenant, essaies d'appuyer sur ta touche 'D'."
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_10",
+      "value": "Bravo ! Tu as fini le tutoriel."
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_11",
+      "value": "Essaies de passer la porte violette pour continuer, je dois filer !"
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_12",
+      "value": "A plus !"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "name": "English",
+  "shortName": "en",
+  "values": [
+    {
+      "key": "DEV_1",
+      "value": "Dev 1"
+    },
+    {
+      "key": "DEV_2",
+      "value": "Dev 2"
+    },
+    {
+      "key": "HELPER",
+      "value": "Guardian angel"
+    },
+    {
+      "key": "CHARACTER",
+      "value": "Character"
+    },
+    {
+      "key": "DOOR",
+      "value": "Door"
+    },
+    {
+      "key": "IF",
+      "value": "If"
+    },
+    {
+      "key": "MOVE",
+      "value": "Move"
+    },
+    {
+      "key": "PRESS",
+      "value": "Press"
+    },
+    {
+      "key": "VALIDATE",
+      "value": "Validate"
+    },
+    {
+      "key": "EXIT_LINE",
+      "value": "Do you really want to exit ?"
+    },
+    {
+      "key": "EXIT",
+      "value": "Exit"
+    },
+    {
+      "key": "CANCEL",
+      "value": "Cancel"
+    },
+    {
+      "key": "FINISH_LINE",
+      "value": "Congratulations, you just finished the prototype !!"
+    },
+    {
+      "key": "CONDITION",
+      "value": "Condition"
+    },
+    {
+      "key": "TRUE",
+      "value": "True"
+    },
+    {
+      "key": "FALSE",
+      "value": "False"
+    },
+    {
+      "key": "KEY",
+      "value": "key"
+    },
+    {
+      "key": "PRESS_EVENT",
+      "value": "Press Event"
+    },
+    {
+      "key": "TARGET",
+      "value": "Target"
+    },
+    {
+      "key": "PRESS_E",
+      "value": "PRESS E"
+    },
+    {
+      "key": "INTRO_1",
+      "value": "Hey what is this crap ?"
+    },
+    {
+      "key": "INTRO_2",
+      "value": "..."
+    },
+    {
+      "key": "INTRO_3",
+      "value": "Delete everything and do it again from scratch !"
+    },
+    {
+      "key": "INTRO_4",
+      "value": "Ok ok ..."
+    },
+    {
+      "key": "FIRST_DIALOG_1",
+      "value": "Wait ....."
+    },
+    {
+      "key": "FIRST_DIALOG_2",
+      "value": "There was still one of those AIs here ?"
+    },
+    {
+      "key": "FIRST_DIALOG_3",
+      "value": "Can you hear me ?"
+    },
+    {
+      "key": "FIRST_DIALOG_4",
+      "value": "This is he ! your Guardian Angel !"
+    },
+    {
+      "key": "FIRST_DIALOG_5",
+      "value": "Hey intern ! Will you bring be the damn coffee ?"
+    },
+    {
+      "key": "FIRST_DIALOG_6",
+      "value": "Comming ..."
+    },
+    {
+      "key": "FIRST_DIALOG_7",
+      "value": "You poor thing ... Easy now .... Let's fix you !"
+    },
+    {
+      "key": "FIRST_DIALOG_8",
+      "value": "Ok try to press 'E' to open your console window"
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_1",
+      "value": "For starter, let's create a IF statement"
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_2",
+      "value": "Now, let's create a PRESS event"
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_3",
+      "value": "Now, let's create a MOVE action"
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_4",
+      "value": "Now, set the key in the PRESS even to 'D'"
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_5",
+      "value": "Now, link the IF statement to the PRESS event."
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_6",
+      "value": "Now, link the IF statement to the MOVE action."
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_7",
+      "value": "Now, make your character go to the right by settings the direction of the MOVE action to (1, 0, 0)."
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_8",
+      "value": "Finally, validate the script."
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_9",
+      "value": "Now try pressing your 'D' key"
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_10",
+      "value": "Congratulation, you finished the tutorial."
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_11",
+      "value": "Try to pass the purple door I have to go."
+    },
+    {
+      "key": "FIRST_VISUAL_SCRIPT_12",
+      "value": "See ya !"
+    }
+  ]
+}
